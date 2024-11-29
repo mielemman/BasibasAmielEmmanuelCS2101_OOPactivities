@@ -11,4 +11,4 @@ public class Main {
         //for computing and printing the perimeter and area
         shapeCollection.getPropertyValues();
     }
-    }
+}
